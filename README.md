@@ -1,5 +1,8 @@
+Work for money. Code and design for love! 
+My name is Radek I am Front-end Developer. From Poland.
+
 - 👋 Hi, I’m @RadekWebDev
-- 👀 I’m interested in Front-end Developers
+- 👀 I’m interested in Front-end Developer
 - 🌱 I’m currently learning JavaScript
 - 💞️ I’m looking to collaborate on new projects
 - 📫 How to reach me? Write to e-mail: radek.web.dev@gmail.com
